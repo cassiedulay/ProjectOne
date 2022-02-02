@@ -1,0 +1,17 @@
+@charset "utf-8";
+body {
+    background-image: url(openbook.jpg);
+    background-size: cover;
+    position: absolute;
+    top: 25px;
+    bottom: 0px;
+    left: 158px;
+    right: 0px;
+}
+.ashes {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    top: -6px;
+    left: 21px;
+}

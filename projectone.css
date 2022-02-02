@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+body {
+    color: #B04B4D;
+    background-origin: padding-box;
+    background-repeat: no-repeat;
+    background-position: center 0%;
+    width: auto;
+    background-size: 1290px 583px;
+}
+
+}
+.speech {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 280px;
+}
+.animalspeech1 {
+    position: absolute;
+    top: 0px;
+    left: 284px;
+    bottom: 0px;
+    right: 0px;
+}
+
+.piggy {
+    position: absolute;
+    bottom: 61px;
+    left: 435px;
+    top: 288px;
+}
+.bunnies {
+    position: absolute;
+    bottom: 46px;
+    left: 222px;
+    top: 265px;
+    right: 0px;
+}
+.bear {
+    position: absolute;
+    bottom: 29px;
+    left: 666px;
+    top: 300px;
+    right: 21px;
+}
+.cow {
+    position: absolute;
+    bottom: 37px;
+    right: 294px;
+    left: 864px;
+    top: 299px;
+}
+.background {
+    position: absolute;
+    width: 1275px;
+    height: 579px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+
+}
+.cowspeech {
+}
+.animalspeech4 {
+    position: absolute;
+    left: 283px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+.animalspeech2 {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 294px;
+}
+
+
+.animalspeech2 {
+}
+.animalspeech3 {
+    position: absolute;
+    left: 282px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+}

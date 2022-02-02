@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+    background-image: url(openbook.jpg);
+    background-position: 0% 0%;
+    background-size: cover;
+
+}
+.fall {
+    position: absolute;
+    left: 300px;
+    top: 72px;
+    bottom: 0px;
+    right: 0px;
+}

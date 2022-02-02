@@ -1,0 +1,36 @@
+@charset "utf-8";
+body {
+    background-position: 0% 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.arm {
+    position: absolute;
+    top: 362px;
+    left: 264px;
+    bottom: 0px;
+    right: -24px;
+}
+.text {
+    position: absolute;
+    top: 277px;
+    left: 370px;
+    bottom: 0px;
+}
+.text2 {
+    position: absolute;
+    top: -114px;
+    left: 539px;
+    right: 66px;
+    bottom: 33px;
+    text-align: right;
+    font-weight: bold;
+    color: #F4F4F4;
+    white-space: normal;
+}
+.background {
+    width: 1258px;
+    height: 555px;
+    min-width: 0px;
+    text-align: center;
+}
